@@ -5,7 +5,11 @@ Guidelime.registerGuide(
 [NX 1-80 Lunar Festival - Elders of Eastern Kingdoms]
 [NX 1-80 Lunar Festival - Elders of Dungeons]
 [D Guide to Lunar Festival Elders in Northrend]
+[OC]If this line is grayed out, the guide has not started due to a bug. Please mark all checkboxes above and including this item.
+
 [OC]This guide does NOT contains Instance Elders for Northrend. You will need a group for most, if not all.
+
+[OC]This guide has no flight point hints, as I assume most people will use their own mounts anyway.
 
 [OC]Start in Dalaran
 

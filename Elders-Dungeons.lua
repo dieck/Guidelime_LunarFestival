@@ -5,7 +5,8 @@ Guidelime.registerGuide(
 [NX 1-80 Lunar Festival - Elders of Eastern Kingdoms]
 [NX 1-80 Lunar Festival - Elders of Northrend]
 [D Guide to Lunar Festival Elders in Dungeons. You can of course do these in any order.]
-[OC]This guide does NOT contains Instance Elders for Northrend. You will need a group for most, if not all.
+
+[OC]If this line is grayed out, the guide has not started due to a bug. Please mark all checkboxes above and including this item.
 
 -- Elder Igasho 
 [O]Enter the Nexus. Accept [QA13021] & turn in [QT13021-] [TAR30536-] (before Ormorock the Tree-Shaper)
