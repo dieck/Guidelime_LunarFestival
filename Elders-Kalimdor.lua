@@ -7,7 +7,7 @@ Guidelime.registerGuide(
 [D Guide to Lunar Festival Elders of Kalimdor]
 [OC]If this line is grayed out, the guide has not started due to a bug. Please mark all checkboxes above and including this item.
 
-[OC]Please note that routes are slightly optimized for Alliance (as I play that), but Horde should be able to ride along everything as well. You may of course take different routes and use this guide to see if you missed any Elder.
+[OC]Please note that, as I play Alliance, I might have missed some optimazations of the routes for Horde. Please suggest improvements via Curse or Github! You may of course take different routes and use this guide to see if you missed any Elder.
 
 [OC]This guide contains Instance Elders for Kalimdor. All should be soloable by a LVL 80 char. Skip if you want to do them in a group.
 
@@ -119,7 +119,7 @@ Travel to Thunder Bluff, Elder Rise. Accept [QA8678] & turn in [QT8678-] [TAR155
 [A Horde]Fly to [F Camp Mojache][OC]
 
 -- Elder Mistwalker
-Travel to Feralas, enter Dire Maul area. Accept [QA8685] & turn in [QT8685-] at [TAR15587-]. (In the Arena in the mid, outside of instances. Beware: The arena flags you free-for-all PvP!)
+Travel to Feralas, enter Dire Maul area. Accept [QA8685] & turn in [QT8685-] at [TAR15587-]. (In the Arena in the mid, outside of instances. Beware: The arena flags you free-for-all PvP! Exit is the small door in west side, keep straight and turn left at the end, follow tunnel.)
 
 -- Elder Grimtotem
 Travel to Feralas, Lariss Pavilion. Accept [QA8679] & turn in [QT8679-] [TAR15581-]
@@ -136,7 +136,8 @@ Travel to Thousand Needles, Mirage Raceway. Accept [QA8724] & turn in [QT8724-] 
 Travel to Tanaris, Gadgetzan. Accept [QA8684] & turn in [QT8684-] [TAR15586-]
 
 -- Elder Wildmane
-Instance Elder! Travel to Zul'Farrak. Accept [QA8676] & turn in [QT8676-] [TAR15578-] (at the Gahz'rilla pool)
+Instance Elder! Travel to [G 38.7,20.0,15 Tanaris] Zul'Farrak[OC] and enter instance.
+Accept [QA8676] & turn in [QT8676-] [TAR15578-] (straight ahead, at end turn left and follow path, Elder is to the right of the Gahz'rilla pool)
 
 -- Elder Ragetotem
 Travel to Tanaris, Uldum. Accept [QA8671] & turn in [QT8671-] [TAR15573-]
@@ -156,9 +157,11 @@ Travel to Silithus, Crystal Vale. Accept [QA8654] & turn in [QT8654-] [TAR15570-
 [A Horde]Fly to [F Shadowprey Village][OC]
 
 -- Elder Grimtotem
-Instance Elder! Travel to Maraudon. Accept [QA8635] & turn in [QT8635-] [TAR15556-] (Ramp between Rotgrip jump and Goblin boss)
+Instance Elder! Travel to Maraudon [G 38.5,58,20 Desolace]. Use Portal to Inner Maraudon (Princess run shortcut)[OC]
+Follow Princess path until ramps, then turn right and keep going.[OC]
+Accept [QA8635] & turn in [QT8635-] [TAR15556-] (Ramp between Rotgrip jump and Goblin boss)
 
-[O]You can now hearth our and continue with one of the other guides.
+[OC]You can now hearth our and continue with one of the other guides.
 
-[O]If you liked this guide, you can send a Thank You note to Allaister (Everlook, Alliance) ;)
+[OC]If you liked this guide, you can send a Thank You note to Allaister (Everlook, Alliance) ;)
 ]], "Lunar Festival - Elders")
