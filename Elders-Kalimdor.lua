@@ -5,7 +5,7 @@ Guidelime.registerGuide(
 [NX 1-80 Lunar Festival - Elders of Northrend]
 [NX 1-80 Lunar Festival - Elders of Dungeons]
 [D Guide to Lunar Festival Elders of Kalimdor]
-[OC]If this line is grayed out, the guide has not started due to a bug. Please mark all checkboxes above and including this item.
+[OC]If this line is grayed out, the guide has not started due to a bug. Please mark all checkboxes above and including this item. This might happen again after a reload / new login.
 
 [OC]Please note that, as I play Alliance, I might have missed some optimazations of the routes for Horde. Please suggest improvements via Curse or Github! You may of course take different routes and use this guide to see if you missed any Elder.
 
@@ -30,10 +30,11 @@ Travel to Azshara, Ravencrest Monument. Accept [QA8720] & turn in [QT8720-] [TAR
 
 -- order for alliance
 
-[A Alliance]Hearth and take portal to Darnassus[OC]
+[A Alliance]Hearth to [H Dalaran] and take portal to Darnassus[OC]
 
 -- Elder Bladeswift
 [A Alliance]Travel to Darnassus, Cenarion Enclave. Accept [QA8718] & turn in [QT8718-] [TAR15598-].
+[A Alliance] Renew your [CI21711,1], if has expired or is about to.[OC]
 
 -- Elder Bladeleaf
 [A Alliance]Travel to Teldrassil, Dolanaar. Accept [QA8715] & turn in [QT8715-] [TAR15595-].
@@ -64,7 +65,7 @@ Travel to Azshara, Ravencrest Monument. Accept [QA8720] & turn in [QT8720-] [TAR
 -- Elder Darkhorn
 [A Alliance]Travel to Orgrimmar, Valley of Wisdom. Accept [QA8677] & turn in [QT8677-] [TAR15579-] (Alliance will be flagged for PvP)
 
-[A Alliance]If your hearth is up, you could get out and try to find a mage for a portal to Theramore instead of running out. But I suggest saving the hearth for Thunder Bluff.[OC]
+[A Alliance]If your hearth is up, you could get out to [H Dalaran] and try to find a mage for a portal to Theramore instead of running out. But I suggest saving the hearth for Thunder Bluff.[OC]
 
 -- order for Horde
 
@@ -87,8 +88,11 @@ Travel to Azshara, Ravencrest Monument. Accept [QA8720] & turn in [QT8720-] [TAR
 -- Elder Bladeleaf
 [A Horde]Travel to Teldrassil, Dolanaar. Accept [QA8715] & turn in [QT8715-] [TAR15595-]. (Horde will be flagged for PvP travelling through Darnassus!)
 
+[A Horde]Hearth to [H Orgrimmar]
+
 -- Elder Darkhorn
-[A Horde]Hearth to Orgrimmar. Go to Valley of Wisdom. Accept [QA8677] & turn in [QT8677-] [TAR15579-]
+[A Horde]Go to Orgrimmar, Valley of Wisdom. Accept [QA8677] & turn in [QT8677-] [TAR15579-]
+[A Horde] Renew your [CI21711,1], if has expired or is about to.[OC]
 
 -- Elder Runetotem
 [A Horde]Travel to Durotar, Razor Hill. Accept [QA8670] & turn in [QT8670-] [TAR15572-]
@@ -114,7 +118,7 @@ Travel to Mulgore, Bloodhoof Village. Accept [QA8673] & turn in [QT8673-] [TAR15
 -- Elder Ezra Wheathoof
 Travel to Thunder Bluff, Elder Rise. Accept [QA8678] & turn in [QT8678-] [TAR15580-] (Alliance will be flagged for PvP!)
 
-[A Alliance]Hearth and take portal to Darnassus. (Yes, it's faster than running all the way back and around to next step.)[OC]
+[A Alliance]Hearth to [H Dalaran] and take portal to Darnassus. (Yes, it's faster than running all the way back and around to next step.)[OC]
 [A Alliance]Fly to [F Feathermoon Stronghold][OC]
 [A Horde]Fly to [F Camp Mojache][OC]
 
@@ -161,7 +165,7 @@ Instance Elder! Travel to Maraudon [G 38.5,58,20 Desolace]. Use Portal to Inner 
 Follow Princess path until ramps, then turn right and keep going.[OC]
 Accept [QA8635] & turn in [QT8635-] [TAR15556-] (Ramp between Rotgrip jump and Goblin boss)
 
-[OC]You can now hearth our and continue with one of the other guides.
+[OC]You can now hearth out to [H Dalaran] and continue with one of the other guides.
 
 [OC]If you liked this guide, you can send a Thank You note to Allaister (Everlook, Alliance) ;)
 ]], "Lunar Festival - Elders")
