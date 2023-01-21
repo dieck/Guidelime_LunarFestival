@@ -6,7 +6,7 @@ Guidelime.registerGuide(
 [NX 1-80 Lunar Festival - Elders of Northrend]
 [D Guide to Lunar Festival Elders in Dungeons. You can of course do these in any order.]
 
-[OC]If this line is grayed out, the guide has not started due to a bug. Please mark all checkboxes above and including this item.
+[OC]If this line is grayed out, the guide has not started due to a bug. Please mark all checkboxes above and including this item. This might happen again after a reload / new login.
 
 -- Elder Igasho 
 [O]Enter the Nexus. Accept [QA13021] & turn in [QT13021-] [TAR30536-] (before Ormorock the Tree-Shaper)
