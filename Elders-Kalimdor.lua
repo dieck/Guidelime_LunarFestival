@@ -54,7 +54,7 @@ Travel to Azshara, Ravencrest Monument. Accept [QA8720] & turn in [QT8720-] [TAR
 -- Elder Nightwind
 [A Alliance]Travel to Felwood, Jaedenar. Accept [QA8723] & turn in [QT8723-] [TAR15603-]
 
-[A Alliance]Fly to [F Forest Song][OC]
+[A Alliance]Fly to [F Forest Song][OC] and prepare for a long ride...
 
 -- Elder Moonwarden [G 51.4,30.6,100 The Barrens] 
 [A Alliance]Travel to The Barrens, Crossroads. Accept [QA8717] & turn in [QT8717-] [TAR15597-]
@@ -63,9 +63,10 @@ Travel to Azshara, Ravencrest Monument. Accept [QA8720] & turn in [QT8720-] [TAR
 [A Alliance]Travel to Durotar, Razor Hill. Accept [QA8670] & turn in [QT8670-] [TAR15572-]
 
 -- Elder Darkhorn
-[A Alliance]Travel to Orgrimmar, Valley of Wisdom. Accept [QA8677] & turn in [QT8677-] [TAR15579-] (Alliance will be flagged for PvP)
+[A Alliance]On next step, Alliance will be flagged for PvP. Suggestion: Use back entrance and simply follow the path all the way through, leads directly to Elder.[OC]
+[A Alliance]Travel to Orgrimmar, Valley of Wisdom. Accept [QA8677] & turn in [QT8677-] [TAR15579-] 
 
-[A Alliance]If your hearth is up, you could get out to [H Dalaran] and try to find a mage for a portal to Theramore instead of running out. But I suggest saving the hearth for Thunder Bluff.[OC]
+[A Alliance]Your options: For shortest time to next run out again; or (comfortable but takes longer) use Invitation to Moonglade or Hearth to [H Dalaran] and portal to Darnassus, then fly to [F Ratchet] (I suggest saving the hearth for Thunder Bluff)[OC]
 
 -- order for Horde
 
@@ -83,10 +84,11 @@ Travel to Azshara, Ravencrest Monument. Accept [QA8720] & turn in [QT8720-] [TAR
 [A Horde]Travel to Darkshore, Auberdine. Accept [QA8721] & turn in [QT8721-] [TAR15601-]
 
 -- Elder Bladeswift
-[A Horde]Travel to Darnassus, Cenarion Enclave. Accept [QA8718] & turn in [QT8718-] [TAR15598-]. (Horde will be flagged for PvP!)
+[A Alliance]On next step, Horde will be flagged for PvP. After using the portal, keep to your left.[OC]
+[A Horde]Travel to Darnassus, Cenarion Enclave. Accept [QA8718] & turn in [QT8718-] [TAR15598-]
 
 -- Elder Bladeleaf
-[A Horde]Travel to Teldrassil, Dolanaar. Accept [QA8715] & turn in [QT8715-] [TAR15595-]. (Horde will be flagged for PvP travelling through Darnassus!)
+[A Horde]Travel to Teldrassil, Dolanaar. Accept [QA8715] & turn in [QT8715-] [TAR15595-]
 
 [A Horde]Hearth to [H Orgrimmar]
 
@@ -116,9 +118,10 @@ Travel to The Barrens, Camp Taurajo. Accept [QA8686] & turn in [QT8686-] [TAR155
 Travel to Mulgore, Bloodhoof Village. Accept [QA8673] & turn in [QT8673-] [TAR15575-]
 
 -- Elder Ezra Wheathoof
-Travel to Thunder Bluff, Elder Rise. Accept [QA8678] & turn in [QT8678-] [TAR15580-] (Alliance will be flagged for PvP!)
+[A Alliance]On next step, Alliance will be flagged for PvP. Suggestion: Use main (western) elevator, then circle around to the right. At second pair of bridges, go through the house with the higher bridge. You will aggro guards, just keep running until outfight :)[OC]
+Travel to Thunder Bluff, Elder Rise. Accept [QA8678] & turn in [QT8678-] [TAR15580-]
 
-[A Alliance]Hearth to [H Dalaran] and take portal to Darnassus. (Yes, it's faster than running all the way back and around to next step.)[OC]
+[A Alliance]Hearth to [H Dalaran] and take portal to Darnassus. If you don't have Stonetalon Mountain flight point, use Invitation and travel from Moonglade. (inflight time is good for a bio break ;))[OC]
 [A Alliance]Fly to [F Feathermoon Stronghold][OC]
 [A Horde]Fly to [F Camp Mojache][OC]
 
@@ -131,6 +134,7 @@ Travel to Feralas, Lariss Pavilion. Accept [QA8679] & turn in [QT8679-] [TAR1558
 [A Horde]Fly to [F Freewind Post][OC]
 
 -- Elder Skyseer
+[A Alliance]Use elevator, Elder is straight ahead.[OC]
 Travel to Thousand Needles, Freewind Post. Accept [QA8682] & turn in [QT8682-] [TAR15584-]
 
 -- Elder Morningdew
@@ -161,9 +165,10 @@ Travel to Silithus, Crystal Vale. Accept [QA8654] & turn in [QT8654-] [TAR15570-
 [A Horde]Fly to [F Shadowprey Village][OC]
 
 -- Elder Grimtotem
-Instance Elder! Travel to Maraudon [G 38.5,58,20 Desolace]. Use Portal to Inner Maraudon (Princess run shortcut)[OC]
-Follow Princess path until ramps, then turn right and keep going.[OC]
-Accept [QA8635] & turn in [QT8635-] [TAR15556-] (Ramp between Rotgrip jump and Goblin boss)
+Instance Elder! Travel to Maraudon [G 30,62,33 Desolace][OC]
+Use Portal to Inner Maraudon (Princess run). Inside instance, go south and follow path.[OC]
+Go ahead (like princess run), at ramps go over bridge and left. At water cavern go to left ledge and jump. Follow tunnel out of the water.[OC]
+Accept [QA8635] & turn in [QT8635-] [TAR15556-] (First ramp between Rotgrip jump and Goblin boss)
 
 [OC]You can now hearth out to [H Dalaran] and continue with one of the other guides.
 

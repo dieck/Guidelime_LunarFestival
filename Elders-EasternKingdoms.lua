@@ -16,10 +16,10 @@ Guidelime.registerGuide(
 [A Horde] Renew your [CI21711,1], if has expired or is about to.[OC]
 
 -- Elder Bellowrage
-Travel to Blasted Lands, Dark Portal. Accept [QA8647] & turn in [QT8647-] [TAR15563-] 
+Travel to Blasted Lands, Dark Portal. Accept [QA8647] & turn in [QT8647-] [TAR15563-] (Bug: Marker shows at crater cliffs, but he is in the mid of the crater.)
 
 -- Elder Starsong
-Instance Elder! Travel to Temple of Atal'Hakkar [G 70,55,30 Swamp of Sorrows][OC] and enter instance.
+Instance Elder! Travel to Temple of Atal'Hakkar [G 70,55,30 Swamp of Sorrows] and enter instance (middle level in Hall of Bones).[OC]
 Take stairs to the left and keep left in the dragon room[OC]
 Accept [QA8713] & turn in [QT8713-] [TAR15593-] (in Pit of Sacrifice with all the dragons)
 
@@ -28,9 +28,9 @@ If you don't want to run out, hearth to [H Dalaran] and take portal to Blasted L
 Fly to [F Booty Bay][OC]
 
 -- Elder Winterhoof
-Travel to Stranglethorn Vale, Booty Bay. Accept [QA8674] & turn in [QT8674-] [TAR15576-] 
+Travel to Stranglethorn Vale, Booty Bay. Accept [QA8674] & turn in [QT8674-] [TAR15576-] (Bug: Marker shows the dock, but he is on top of the bank)
 
---TODO! Rebel Camp?
+--Rebel Camp
 [A Alliance]Fly to [F Rebel Camp][OC]
 [A Horde]Fly to [F Grom'gol][OC]
 
@@ -76,12 +76,12 @@ Travel to Stormwind, Park. Accept [QA8646] & turn in [QT8646-] [TAR15562-] (Hord
 
 -- Elder Morndeep
 Instance Elder! Travel to Blackrock Mountain [G 29,27,175 Burning Steppes][OC]
-Enter Blackrock Depths (BRD) and go straight ahead through the big room to the Ring of Law entrance.[OC]
+Enter Blackrock Depths (BRD, go down on chains through floating rock and nearly straight through the quarry). Inside instance go straight ahead through the big room to the Ring of Law entrance.[OC]
 Accept [QA8619] & turn in [QT8619-] [TAR15549-] (Event will start when you talk to him. You can easily run out before gate closes.)
 
 -- Elder Stonefort
 Instance Elder! Travel to Blackrock Mountain [G 29,27,175 Burning Steppes][OC]
-Enter Blackrock Spire (LBRS). Go right to LBRS, through the connecting tunnel and you will see him ahead left to the first bridge. You might need to fight the groups before and after the bridge, if you are not careful.[OC]
+Enter Blackrock Spire (LBRS, go up on chains then turn right, jump on balcony). Inside instance go right to LBRS, through the connecting tunnel and ahead, and you will see him left to the first bridge. You might need to fight the groups before and after the bridge, if you are not careful.[OC]
 Accept [QA8644] & turn in [QT8644-] [TAR15560-] (After the first bridge)
 
 -- Elder Ironband
